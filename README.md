@@ -1,6 +1,6 @@
 # [._.:: FACE 
 
-Target specified message schema. 🎯
+Target specified message schema 🎯
 
 ## Specification
 
