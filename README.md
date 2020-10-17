@@ -1,4 +1,4 @@
-# Convoscript
+# [ConvoScript](https://iamheshan.github.io/convoscript-spec/) ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 Target specified message schema 🎯
 
