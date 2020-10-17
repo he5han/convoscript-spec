@@ -1,4 +1,4 @@
-# Rattlescript
+# Convoscript
 
 Target specified message schema 🎯
 
