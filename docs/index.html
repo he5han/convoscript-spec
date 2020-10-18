@@ -12,22 +12,27 @@
         padding: 0;
       }
 
-      .icon-container {
-        width: 300px;
-        height: 100%;
-        width: 100%;
+      .icon-container {}
+      
+      .fill {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
       }
       
-      .center {
+      .center-content {
         justify-content: center;
         align-content: center;
         display: inline-flex;
         flex-direction: raw;
       }
+      
     </style>
   </head>
   <body>
-    <div class="icon-container center">
+    <div class="icon-container center-content fill">
       <img
         class="banner-icon"
         src="https://raw.githubusercontent.com/iamheshan/convoscript-spec/master/docs/site/assets/banner_icon_300x140.svg"
