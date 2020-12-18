@@ -7,5 +7,5 @@ Target specified message schema 🎯
     ╭── target ──╮  ╭──── source ────╮  ╭── payload ──╮
      io.test.echo :: client.test.echo :: hello world 👋
 
-## Face Libraries
+## ConvoScript Libraries
 * [face.js](https://github.com/iamheshan/face.js) - Javascript implementation of face.
